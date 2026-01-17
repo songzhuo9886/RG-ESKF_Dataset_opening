@@ -28,6 +28,8 @@ Inside **each scenario folder**, the file layout is:
 └─ H_gt
 ```
 
+wib_Qb2i is currently being prepared, and will be updated in future releases.
+
 ## 2. Frames and Notation
 
 We use the following coordinate frames:
